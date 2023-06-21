@@ -1,0 +1,45 @@
+.home {
+    padding: 7% 26%;
+}
+  
+  /* 2xl */
+  @media (max-width: 1536px) {
+    .home {
+        padding: 7% 23%;
+    }
+  }
+  
+  /* xl */
+  @media (max-width: 1280px) {
+    .home {
+        padding: 6% 20%;
+    }
+  }
+  
+  /* lg */
+  @media (max-width: 1024px) {
+    .home {
+        padding: 5% 17%;
+    }
+  }
+  
+  /* md */
+  @media (max-width: 768px) {
+    .home {
+        padding: 4% 14%;
+    }
+  }
+  
+  /* sm */
+  @media (max-width: 640px) {
+    .home {
+        padding: 4% 7%;
+    }
+  }
+  
+  /* xs */
+  @media (max-width: 475px) {
+    .home {
+        padding: 3% 3%;
+    }
+  }
