@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nathanielfischer/Age-Calculator_Frontend-Mentor/static/css/main.e51d8a39.css",
-    "main.js": "/nathanielfischer/Age-Calculator_Frontend-Mentor/static/js/main.039fef1b.js",
-    "static/js/787.5751740a.chunk.js": "/nathanielfischer/Age-Calculator_Frontend-Mentor/static/js/787.5751740a.chunk.js",
-    "index.html": "/nathanielfischer/Age-Calculator_Frontend-Mentor/index.html",
-    "main.e51d8a39.css.map": "/nathanielfischer/Age-Calculator_Frontend-Mentor/static/css/main.e51d8a39.css.map",
-    "main.039fef1b.js.map": "/nathanielfischer/Age-Calculator_Frontend-Mentor/static/js/main.039fef1b.js.map",
-    "787.5751740a.chunk.js.map": "/nathanielfischer/Age-Calculator_Frontend-Mentor/static/js/787.5751740a.chunk.js.map"
+    "main.css": "/Age-Calculator_Frontend-Mentor/static/css/main.f821b956.css",
+    "main.js": "/Age-Calculator_Frontend-Mentor/static/js/main.81f61af8.js",
+    "static/js/787.5751740a.chunk.js": "/Age-Calculator_Frontend-Mentor/static/js/787.5751740a.chunk.js",
+    "index.html": "/Age-Calculator_Frontend-Mentor/index.html",
+    "main.f821b956.css.map": "/Age-Calculator_Frontend-Mentor/static/css/main.f821b956.css.map",
+    "main.81f61af8.js.map": "/Age-Calculator_Frontend-Mentor/static/js/main.81f61af8.js.map",
+    "787.5751740a.chunk.js.map": "/Age-Calculator_Frontend-Mentor/static/js/787.5751740a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e51d8a39.css",
-    "static/js/main.039fef1b.js"
+    "static/css/main.f821b956.css",
+    "static/js/main.81f61af8.js"
   ]
 }
